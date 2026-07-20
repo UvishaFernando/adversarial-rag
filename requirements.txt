@@ -1,1 +1,5 @@
 pypdf
+numpy
+openai
+sentence-transformers
+faiss-cpu
